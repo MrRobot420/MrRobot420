@@ -7,3 +7,5 @@
 - 👨🏻‍💻 You can reach me here: supreme.programming@gmail.com
 - 😄 Pronouns: Mister
 - ⚡ Fun fact: I love the Mr. Robot TV Series.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot420)](https://github.com/MrRobot420/github-readme-stats)
