@@ -10,7 +10,7 @@
 
 ---
 
-[![MrRobot420's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobot420)](https://github.com/MrRobot420/github-readme-stats)
+[![MrRobot420's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobot420&count_private=true&theme=merko)](https://github.com/MrRobot420/github-readme-stats)
 
 
 ---
