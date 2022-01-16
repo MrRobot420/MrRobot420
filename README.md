@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hello friend. 👋
 
 - 🔭 I’m currently working on trade-sim a crypto trading simulator.
 - 🌱 I’m currently learning Rust, SmartContracts and Genetic Algorithms.
