@@ -15,5 +15,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot420&langs_count=8&layout=compact&theme=merko)](https://github.com/MrRobot420/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=boilerplate-ts-api-server&theme=dark)](https://github.com/MrRobot420/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=FanController&theme=dark)](https://github.com/MrRobot420/github-readme-stats)
+<a href="https://github.com/MrRobot420/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=boilerplate-ts-api-server&theme=nord" />
+</a>
+<a href="https://github.com/MrRobot420/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=FanController&theme=nord" />
+</a>
