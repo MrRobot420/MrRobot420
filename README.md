@@ -19,8 +19,8 @@
 ### Additional PINs:
 
 <a href="https://github.com/MrRobot420/boilerplate-ts-api-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=boilerplate-ts-api-server&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=boilerplate-ts-api-server&theme=github_dark" />
 </a>
 <a href="https://github.com/MrRobot420/FanController">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=FanController&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=FanController&theme=github_dark" />
 </a>
