@@ -8,4 +8,4 @@
 - 😄 Pronouns: Mister
 - ⚡ Fun fact: I love the Mr. Robot TV Series.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot420)](https://github.com/MrRobot420/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot420&langs_count=8&layout=compact&theme=blue-green)](https://github.com/MrRobot420/github-readme-stats)
