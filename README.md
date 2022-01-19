@@ -31,10 +31,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=crypto-courses&theme=github_dark" />
 </a>
 <a href="https://github.com/MrRobot420/crypto-blockchain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=FanController&theme=crypto-blockchain" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=crypto-blockchain&theme=github_dark" />
 </a>
 <a href="https://github.com/MrRobot420/crypto-staking-calc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=FanController&theme=crypto-staking-calc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=crypto-staking-calc&theme=github_dark" />
 </a>
 <a href="https://github.com/MrRobot420/spotify-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=spotify-api&theme=github_dark" />
