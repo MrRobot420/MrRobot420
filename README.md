@@ -19,7 +19,7 @@
 
 ---
 
-### Some Pins:
+### Pinned:
 
 <a href="https://github.com/MrRobot420/boilerplate-ts-api-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=boilerplate-ts-api-server&theme=github_dark" />
