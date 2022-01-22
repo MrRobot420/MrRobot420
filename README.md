@@ -11,7 +11,7 @@
 ---
 
 <a href="https://github.com/MrRobot420/MrRobot420">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot420&langs_count=8&layout=compact&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot420&langs_count=8&layout=compact&theme=merko&count_private=true" />
 </a>
 <a href="https://github.com/MrRobot420/MrRobot420">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrRobot420&count_private=true&theme=merko&show_icons=true" />
