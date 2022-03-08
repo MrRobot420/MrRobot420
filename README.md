@@ -22,6 +22,10 @@
 
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRobot420"></img>
+
+---
+
 ### Pinned:
 
 <a href="https://github.com/MrRobot420/boilerplate-ts-api-server">
