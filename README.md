@@ -22,7 +22,7 @@
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRobot420"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRobot420">
 
 ---
 
