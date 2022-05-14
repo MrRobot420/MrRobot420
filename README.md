@@ -9,6 +9,9 @@
 - ⚡ Fun fact: I love the Mr. Robot TV Series.
 
 ---
+![My GitHub Skyline](https://skyline.github.com/MrRobot420/2021)
+---
+
 ![MrRobot420's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MrRobot420&hide_border=true&theme=redical)
 
 ---
