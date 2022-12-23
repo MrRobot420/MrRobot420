@@ -12,10 +12,6 @@
 [My GitHub Skyline 🏙](https://skyline.github.com/MrRobot420/2021)
 ---
 
-![MrRobot420's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MrRobot420&hide_border=true&theme=redical)
-
----
-
 <a href="https://github.com/MrRobot420/MrRobot420">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot420&langs_count=8&layout=compact&theme=merko&count_private=true" />
 </a>
