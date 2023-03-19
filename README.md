@@ -1,12 +1,13 @@
 ### Hello friend. 👋
 
-- 🔭 I’m currently working on trade-sim a crypto trading simulator.
-- 🌱 I’m currently learning Rust, SmartContracts and Genetic Algorithms.
-- 👯 I’m looking to collaborate on everything related to crypto currencies.
-- 💬 Ask me about CryptoCurrencies, TypeScript, Node.js, GCP, AWS, Python, Swift.
+- 🔭 I’m currently working on automating things with python and Chat GPT.
+- 🌱 I’m currently learning Terraform.
+- 👯 I’m interested to collaborate on everything related to crypto currencies.
+- 💬 Ask me about Python, TypeScript, Node.js, GCP, AWS, Swift.
 - 👨🏻‍💻 You can reach me here: supreme.programming@gmail.com
 - 😄 Pronouns: Mister
 - ⚡ Fun fact: I love the Mr. Robot TV Series.
+- 📘 My Blog: <a href="https://blog.supreme-programming.com/">Supreme Programming Blog</a>
 
 ---
 [My GitHub Skyline 🏙](https://skyline.github.com/MrRobot420/2021)
