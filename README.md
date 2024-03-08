@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on automating things with python and Chat GPT.
 - 🌱 I’m currently learning Terraform.
-- 👯 I’m interested to collaborate on everything related to crypto currencies.
-- 💬 Ask me about Python, TypeScript, Node.js, GCP, AWS, Swift.
+- 👯 I’m interested to collaborate on everything related to fastapi or next.js.
+- 💬 Ask me about Python, TypeScript, Node.js, Google Cloud Platform.
 - 👨🏻‍💻 You can reach me here: supreme.programming@gmail.com
 - 😄 Pronouns: Mister
 - ⚡ Fun fact: I love the Mr. Robot TV Series.
