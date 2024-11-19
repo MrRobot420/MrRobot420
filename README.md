@@ -1,5 +1,12 @@
 ### Hello friend. 👋
 
+<p>
+    <a href="https://github.com/MrRobot420/MrRobot420"><img src="https://img.shields.io/badge/status-coding-green.svg"></a>
+    <a href="https://github.com/MrRobot420/MrRobot420/graphs/contributors"><img src="https://img.shields.io/github/contributors/MrRobot420/MrRobot420?color=blue"></a>
+    <a href="https://github.com/MrRobot420/MrRobot420/stargazers"><img src="https://img.shields.io/github/stars/MrRobot420/MrRobot420.svg?logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MrRobot420" alt="visitors"/>   
+</p>
+
 - 🔭 I’m currently working on automating things with python and Chat GPT.
 - 🌱 I’m currently learning Terraform.
 - 👯 I’m interested to collaborate on everything related to fastapi or next.js.
