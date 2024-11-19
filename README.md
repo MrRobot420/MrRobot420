@@ -52,3 +52,11 @@
 <a href="https://github.com/MrRobot420/automal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobot420&repo=automal&theme=github_dark" />
 </a>
+
+---
+
+## Thanks for visiting
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/MrRobot420/count.svg">
+
+Counting visitors of my GitHub page since Nov 20, 2024.
