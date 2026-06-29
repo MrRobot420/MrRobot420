@@ -65,6 +65,6 @@
 
 ## Thanks for visiting
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/MrRobot420/count.svg">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MrRobot420" alt="visitors"/>
 
 Counting visitors of my GitHub page since Nov 20, 2024.
