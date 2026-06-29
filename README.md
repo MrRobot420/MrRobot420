@@ -15,7 +15,7 @@
 - 😄 Pronouns: Mister
 - ⚡ Fun fact: I love the Mr. Robot TV Series.
 - 🚀 I founded a software StartUP ~1 year ago. Check the link below to check what I offer:
-- 📘 My StartUP: <a href="https://coderilla.de/">Coderilla</a>
+- 📘 My StartUP: <a href="https://coderilla.de/">Coderilla</a> and its <a href="https://github.com/coderilla-software">GitHub</a>
 
 ---
 [My GitHub Skyline 🏙](https://skyline.github.com/MrRobot420/2021)
