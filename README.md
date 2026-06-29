@@ -63,7 +63,7 @@
 
 ---
 
-## Thanks for visiting
+## Thanks for visiting! 🤝
 <p align="center"> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MrRobot420" alt="visitors"/>
 
