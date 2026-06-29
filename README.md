@@ -7,14 +7,15 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=MrRobot420" alt="visitors"/>   
 </p>
 
-- 🔭 I’m currently working on automating things with python and Chat GPT.
-- 🌱 I’m currently learning Terraform.
-- 👯 I’m interested to collaborate on everything related to fastapi or next.js.
-- 💬 Ask me about Python, TypeScript, React.js, shad/cn or the Google Cloud Platform.
-- 👨🏻‍💻 You can reach me here: supreme.programming@gmail.com
-- 😄 Pronouns: Mista
+- 🔭 I’m currently working on <a href="https://ludream.app">Ludream App </a> and <a href="https://feederilla.com">Feederilla</a>.
+- 🌱 I’m currently learning about Marketing & Distribution, Business Accounting and Agentic Workflows.
+- 👯 I’m interested to collaborate on everything related to FastAPI, Next.js, Expo or Cloud Infrastructure.
+- 💬 Ask me about Python, TypeScript, React Native, Terraform or the Google Cloud Platform.
+- 👨🏻‍💻 You can reach me here: contact@coderilla.de
+- 😄 Pronouns: Mister
 - ⚡ Fun fact: I love the Mr. Robot TV Series.
-- 📘 My Blog: <a href="https://blog.supreme-programming.com/">Supreme Programming Blog</a>
+- 🚀 I founded a software StartUP ~1 year ago. Check the link below to check what I offer:
+- 📘 My StartUP: <a href="https://coderilla.de/">Coderilla</a>
 
 ---
 [My GitHub Skyline 🏙](https://skyline.github.com/MrRobot420/2021)
